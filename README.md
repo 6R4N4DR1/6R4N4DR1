@@ -1,8 +1,10 @@
 <div align="center">
         
 ![Your Name or Logo](img/name.svg)
+
+</div>
+<div align="center">
         👋 ¡Hola, soy 6R4N4DR1!
-        
 </div>
 
 ## 🗣️ Sobre mí :
