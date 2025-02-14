@@ -103,9 +103,6 @@ Additionally, I have also learned a bit about technologies like Laravel, Tailwin
 
 <div align="center">
 
-# My Last Commit
-![Last Commit](https://img.shields.io/github/last-commit/6R4N4DR1/6R4N4DR1)
-
 # My GitHub stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=6R4N4DR1&theme=merko&show_icons=true&hide_border=true&count_private=true)
 
@@ -119,6 +116,6 @@ Additionally, I have also learned a bit about technologies like Laravel, Tailwin
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=6R4N4DR1&theme=radical&no-frame=false&no-bg=true&margin-w=4&hide_border=true)
 
 # My GitHub Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=6R4N4DR1&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=6R4N4DR1&theme=radical)
 
 </div>
