@@ -1,5 +1,5 @@
+![Your Name or Logo](img/name.svg)
 <div align="center">
-        ![Your Name or Logo](img/name.svg)
         👋 ¡Hola, soy 6R4N4DR1!
 </div>
 ## [🗣️](https://emojiterra.com/es/silueta-persona-habla/ "🗣️ Cabeza Parlante")Sobre mí :
