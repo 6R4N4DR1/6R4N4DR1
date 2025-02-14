@@ -98,6 +98,6 @@ Additionally, I have also learned a bit about technologies like Laravel, Tailwin
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=6R4N4DR1&theme=merko&show_icons=true&hide_border=true&count_private=true)![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6R4N4DR1&theme=merko&show_icons=true&hide_border=true&langs_count=10)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=6R4N4DR1&theme=merko&hide_border=false)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=6R4N4DR1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=6R4N4DR1&theme=radical&no-frame=false&no-bg=true&margin-w=4&hide_border=true)
 
 </div>
