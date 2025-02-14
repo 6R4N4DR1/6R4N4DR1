@@ -1,10 +1,12 @@
 ![Your Name or Logo](img/name.svg)
+
 <div align="center">
         👋 ¡Hola, soy 6R4N4DR1!
 </div>
-## [🗣️](https://emojiterra.com/es/silueta-persona-habla/ "🗣️ Cabeza Parlante")Sobre mí :
 
-- **👨‍🎓** Soy **Desarrollador de Aplicaciones Web Junior**.
+## 🗣️ Sobre mí :
+
+- 👨‍🎓 Soy **Desarrollador de Aplicaciones Web Junior**.
 - 🌍 Vivo en Granada, España.
 - 📚 Me encanta todo lo relacionado a Big Data, Java, programación de juegos en Lua, Unity y UE5, y las IAs es lo que más quiero reforzar y aprender a parte de seguir sirviendo como Desarrollador Web. Además debo obtener el titulo en B1 de Inglés aunque tengo la cualificación necesaria para conseguirlo sin problemas.
 - 🎾 Me encanta jugar al tenis, hacer rutas, jugar a videojuegos (y si pudiera ser testearlos) y el manga/anime.
@@ -49,7 +51,7 @@ Adicionalmente, también he aprendido de tecnologías como Laravel, Tailwind y X
 
 ---
 
-## [🗣️](https://emojiterra.com/es/silueta-persona-habla/ "🗣️ Cabeza Parlante")About Me:
+## 🗣️ About Me:
 
 - **👨‍🎓** I am a **Junior Web Application Developer**.
 - 🌍 I live in Granada, Spain.
