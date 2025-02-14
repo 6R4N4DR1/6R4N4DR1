@@ -4,7 +4,7 @@
 
 </div>
 <div align="center">
-        👋 ¡Hola, soy 6R4N4DR1!
+        👋 ¡Hola! Soy 6R4N4DR1 -> 👋 Hi! I'm 6R4N4DR1
 </div>
 
 ## 🗣️ Sobre mí :
