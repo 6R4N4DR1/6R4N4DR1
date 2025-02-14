@@ -112,10 +112,10 @@ Additionally, I have also learned a bit about technologies like Laravel, Tailwin
 # My GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=6R4N4DR1&theme=merko&hide_border=false)
 
+# My GitHub Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=6R4N4DR1&theme=merko)
+
 # My GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=6R4N4DR1&theme=radical&no-frame=false&no-bg=true&margin-w=4&hide_border=true)
-
-# My GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=6R4N4DR1&theme=radical)
 
 </div>
