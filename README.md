@@ -104,16 +104,16 @@ Additionally, I have also learned a bit about technologies like Laravel, Tailwin
 <div align="center">
 
 # My GitHub stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=6R4N4DR1&theme=merko&show_icons=true&hide_border=true&count_private=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=6R4N4DR1&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
 # My Top Languages
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6R4N4DR1&theme=merko&show_icons=true&hide_border=true&langs_count=10)
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6R4N4DR1&theme=radical&show_icons=true&hide_border=true&langs_count=10)
 
 # My GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=6R4N4DR1&theme=merko&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=6R4N4DR1&theme=radical&hide_border=false)
 
 # My GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=6R4N4DR1&theme=merko)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=6R4N4DR1&theme=radical)
 
 # My GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=6R4N4DR1&theme=radical&no-frame=false&no-bg=true&margin-w=4&hide_border=true)
