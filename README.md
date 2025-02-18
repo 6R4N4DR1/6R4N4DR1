@@ -39,10 +39,6 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" alt="vuejs logo"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="60" alt="jquery logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="60" alt="tomcat logo"  />
-    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="60" alt="composer logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="60" alt="markdown logo"  />
@@ -50,7 +46,7 @@
 
 ## Tecnologías adicionales
 
-Adicionalmente, también he aprendido de tecnologías como Laravel, Tailwind y XAMPP lo básico igual que todas las mencionadas anteriormente.
+Adicionalmente, también he aprendido un poco o lo básico de tecnologías como Laravel, Tailwind y XAMPP lo básico igual que todas las mencionadas anteriormente.
 
 ---
 
