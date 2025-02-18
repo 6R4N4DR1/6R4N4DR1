@@ -86,10 +86,6 @@ Adicionalmente, también he aprendido de tecnologías como Laravel, Tailwind y X
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" alt="vuejs logo"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="60" alt="jquery logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="60" alt="tomcat logo"  />
-    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="60" alt="composer logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="60" alt="markdown logo"  />
@@ -97,7 +93,7 @@ Adicionalmente, también he aprendido de tecnologías como Laravel, Tailwind y X
 
 ## Additional Technologies
 
-Additionally, I have also learned a bit about technologies like Laravel, Tailwind, and XAMPP, just like all the ones mentioned above.
+Additionally, I have also learned a bit basics about technologies like Laravel, Tailwind, and XAMPP, just like all the ones mentioned above.
 
 ---
 
