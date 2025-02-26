@@ -101,9 +101,6 @@ Additionally, I have also learned a bit basics about technologies like Laravel, 
 # My Top Languages
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6R4N4DR1&theme=radical&show_icons=true&hide_border=true&langs_count=10)
 
-# My GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=6R4N4DR1&theme=radical&hide_border=false)
-
 # My GitHub Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=6R4N4DR1&theme=merko)
 
